@@ -19,7 +19,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![./images/desktop_QR_code_component.jpg](./images/desktop_QR_code_component.jpg)
-![./images/mobile_QR_code_component.jpg](./images/mobile_QR_code_component.jpg)
 
 
 ## My process
@@ -57,7 +56,7 @@ How to center items both horizontally and vertically
 
 ### Useful resources
 
-- [MDN Web Docs](https://www.example.com) - This website has the comprehensive documentation of HTML and CSS. I strongly recommend this website to anyone who are learning fundamental concepts of these technologies.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - This website has the comprehensive documentation of HTML and CSS. I strongly recommend this website to anyone who are learning fundamental concepts of these technologies.
 
 
 ## Author
